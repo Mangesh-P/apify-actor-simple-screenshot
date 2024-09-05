@@ -1,0 +1,25 @@
+{
+    "title": "apify/apify-ntv-actor-simple-screenshot",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "url": {
+            "title": "URL",
+            "type": "string",
+            "description": "URL to start with.",
+            "editor": "textfield"
+        },
+        "filename": {
+            "title": "Filename",
+            "type": "string",
+            "description": "Filename with extension",
+            "editor": "textfield"
+        },
+        "selector": {
+            "title": "Selectors",
+            "type": "string",
+            "description": "Selector to screenshot",
+            "editor": "textfield"
+        }
+    }
+}
