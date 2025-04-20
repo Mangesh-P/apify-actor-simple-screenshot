@@ -1,5 +1,5 @@
 {
-    "title": "apify/apify-ntv-actor-simple-screenshot",
+    "title": "apify/apify-actor-simple-screenshot",
     "type": "object",
     "schemaVersion": 1,
     "properties": {
